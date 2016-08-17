@@ -1,2 +1,4 @@
-# pz666.github.io
-个人介绍
+http://guopz.github.io/cv/
+
+
+个人简历地址，欢迎访问
